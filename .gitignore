@@ -1,0 +1,14 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Documents and exports
+exports/
+output/
+*.pdf
+*.docx
+
+# Temporary files
+*.tmp
+*.bak
