@@ -1,30 +1,38 @@
 # New Year English Activities
 
-A compact collection of New Year-themed English language learning activities for classroom, tutoring, and speaking club use.
+Ready-to-use New Year English activities for A2-B2 learners, speaking clubs, tutoring sessions, and classroom lessons.
 
 ## Purpose
 
-This repository is designed for teachers who need ready-to-use seasonal English materials for New Year lessons.
+This repository collects seasonal English-learning materials that help teachers run structured New Year lessons without building every task from scratch. The focus is practical classroom use: vocabulary activation, guided speaking, discussion, short writing, reflection, and communicative practice.
 
 ## Target Learners
 
-- A2 to B2 English learners
-- Teenagers and adults
-- Speaking club participants
-- Students preparing for communicative classroom tasks
+- A2-B2 English learners
+- teenagers and adults
+- speaking club participants
+- individual tutoring students
+- learners preparing for communicative classroom tasks
 
-## Materials to Include
+## Teacher Use Cases
 
-- Vocabulary tasks
-- Speaking prompts
-- Writing activities
-- Discussion questions
-- Role-play cards
-- Holiday-themed classroom games
-- Short reading tasks
-- Reflection and goal-setting worksheets
+| Teaching Goal | Suitable Materials |
+| --- | --- |
+| Warm-up and engagement | short speaking prompts, quick vocabulary tasks |
+| Vocabulary revision | celebration, traditions, plans, resolutions, memories |
+| Speaking practice | pair questions, group discussion, role-play cards |
+| Writing practice | greeting cards, letters to future self, yearly reflection |
+| Lesson closure | goal-setting worksheets and reflection tasks |
 
-## Suggested Lesson Modules
+## Suggested Lesson Flow
+
+1. Lead-in: short personal question about New Year traditions or memories.
+2. Vocabulary activation: key words and collocations connected with celebrations and plans.
+3. Controlled practice: sentence frames, matching tasks, or guided questions.
+4. Communicative practice: discussion cards, pair interviews, or role-play.
+5. Reflection: short writing task or learning goals for the next year.
+
+## Repository Structure
 
 ```text
 01-vocabulary/
@@ -49,18 +57,26 @@ This repository is designed for teachers who need ready-to-use seasonal English 
 - Write a letter to your future self.
 - Create a New Year greeting card.
 - Write a short reflection on the previous year.
-- Make a plan for learning English in the new year.
+- Make a realistic English-learning plan for the new year.
 
 ### Vocabulary
 
 Possible topic areas:
 
-- celebrations
-- traditions
-- resolutions
-- memories
+- celebrations and parties
+- traditions and customs
+- resolutions and goals
+- memories and achievements
 - plans and intentions
 - family and community
+
+## Methodical Principles
+
+- clear lesson purpose before individual tasks;
+- progression from vocabulary to controlled practice and freer speaking;
+- learner-friendly prompts suitable for adaptation;
+- materials that can be used in tutoring, classroom lessons, or speaking clubs;
+- teacher notes and answer keys where controlled tasks require them.
 
 ## Roadmap
 
